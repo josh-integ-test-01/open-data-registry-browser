@@ -1,2 +1,2 @@
 # open-data-registry-browser
-Integration test repository
+Test repository for integration tests only
